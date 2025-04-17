@@ -1,0 +1,17 @@
+Home
+about 
+my servicess
+Blog section
+Projects
+games
+shop section
+
+
+
+
+Easter Eggg
+    -Monetary value
+    -in-Game asset
+    -challenges
+    -CTFs(OWASP)
+    -
